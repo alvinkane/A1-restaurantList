@@ -17,11 +17,16 @@
     npm install
     ```
 4. 安裝nodemon套件(若有可省略)
+5. 匯入種子檔案
+    ```
+    npm run seed
+    ```
+6. 出現'mongodb connected!' 'done' 代表成功
 5. 執行專案
     ```
     npm run dev
     ```
-6. 出現 "This is listening on http://localhost:3000" 代表成功
+6. 出現 "This is listening on http://localhost:3000" 'mongodb connected'代表成功
 7. 開啟任一瀏覽器輸入This is listening on http://localhost:3000
 
 畫面  
