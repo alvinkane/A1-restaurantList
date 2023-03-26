@@ -21,7 +21,7 @@
     npm install
     ```
 4. 安裝nodemon套件(若有可省略)
-5. 在專案內創造一個env檔案，並在其中輸入MongoDV connection string
+5. 在專案內創造一個env檔案，並在其中輸入MongoDB connection string
     ```
     MONGODB_ENV=mongodb+srv://<username>:<password>@<cluster>.pk4dwnp.mongodb.net/restaurant-list?retryWrites=true&w=majority
     ```
